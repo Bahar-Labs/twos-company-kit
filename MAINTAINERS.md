@@ -2,6 +2,8 @@
 
 Authorship and maintenance are separate concepts. Authors are the original creators. Maintainers are currently responsible for upkeep. Authors retain attribution even if maintainership changes.
 
+Note: When a second core maintainer joins, enable required code owner review, set required approvals to 1, and turn on dismiss stale approvals.
+
 > **Terminology:** In this document, **contributor** means a person contributing to Two's Company Kit itself. **Collaborator** means a person participating in the shared project being governed with the kit. See the [Terminology](README.md#section-09-terminology) section in the README.
 
 ---
