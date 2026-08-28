@@ -30,7 +30,7 @@ twos-company-kit/
 ├── LICENSE                             ← content license
 ├── CONTRIBUTING.md                     ← how to propose a module
 ├── GOVERNANCE.md                       ← how this kit governs itself
-├── DESIGN-PRINCIPLES.md                ← standards for how Two's Company Kit recommends
+├── DESIGN-PRINCIPLES.md                ← standards for how Two's Company Kit makes recommendations
 ├── MAINTAINERS.md                      ← who maintains what
 │
 ├── 01-the-handshake.md                 ← contribution inventory
