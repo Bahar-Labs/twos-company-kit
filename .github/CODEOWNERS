@@ -1,1 +1,49 @@
 
+# Two's Company Kit -- Code Owners
+#
+# GitHub review routing. "Owner" here means review responsibility, not
+# intellectual-property ownership.
+#
+# MAINTAINERS.md records who holds maintainer responsibility. This file
+# implements that on GitHub. If the two disagree, MAINTAINERS.md governs
+# and this file is corrected to match. Changes here are governance
+# changes: see GOVERNANCE.md.
+#
+# Pattern mechanics, including why the catch-all comes first, are in
+# guides/github-setup.md, Section 5.1. Keep the catch-all first.
+
+# Catch-all for kit content. Keep this first; specific rules override it.
+*                                     @babsfuller
+
+# Core kit sections
+/README.md                            @babsfuller
+/01-the-handshake.md                  @babsfuller
+/02-who-owns-what.md                  @babsfuller
+/03-money.md                          @babsfuller
+/04-infrastructure-and-custody.md     @babsfuller
+/05-expenses.md                       @babsfuller
+/06-what-happens-when.md              @babsfuller
+/07-working-agreement.md              @babsfuller
+/08-contribution-log.md               @babsfuller
+
+# Governance documents
+/GOVERNANCE.md                        @babsfuller
+/DESIGN-PRINCIPLES.md                 @babsfuller
+/MAINTAINERS.md                       @babsfuller
+/CONTRIBUTING.md                      @babsfuller
+/LICENSE                              @babsfuller
+
+# Templates
+/templates/                           @babsfuller
+
+# Guides
+/guides/                              @babsfuller
+
+# Financial Foundations module
+# When a module maintainer joins, list them on this line alongside or in
+# place of the core maintainer. Both names must be on the same line.
+/modules/financial-foundations/       @babsfuller
+
+# Review routing configuration
+/.github/CODEOWNERS                   @babsfuller
+/.github/PULL_REQUEST_TEMPLATE.md     @babsfuller
